@@ -44,6 +44,7 @@ Quadrinhos
 
 ## Livros sobre produtividades
 * Os 7 hábitos das pessoas altamente eficazes	| Stephen R. Covey |	Franklin Covey
+* Getting things done - A arte de fazer acontecer | David Allen | Editora Campus
 
 ## Jorge Amado
 * Tereza Bastista cansada de guerra	Jorge Amado	Martin Claret
