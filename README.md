@@ -40,6 +40,7 @@ Quadrinhos
 ## William Burroughs
 * O Gato por dentro	| William Burroughs	| L&PM Pocket
  
+## Francisco Pereira da Silva
 * Coleção Teatro Moderno (Cristo Poclamado * O chão dos penitentes) | Francisco Pereira da Silva |	AGIR
 
 ## Livros sobre produtividades
@@ -47,15 +48,14 @@ Quadrinhos
 * Getting things done - A arte de fazer acontecer | David Allen | Editora Campus
 
 ## Jorge Amado
-* Tereza Bastista cansada de guerra	Jorge Amado	Martin Claret
+* Tereza Bastista cansada de guerra |	Jorge Amado |	Martin Claret
 
 ## Milan Kundera
 * A identidade |	Milan Kundera |	Companhia de bolso
 
 ## Osman Lins 
-Livro que deu origem ao filme
-* Lisbela e o Prisioneiro	| Osman Lins |	Planeta
 
+* Lisbela e o Prisioneiro	| Osman Lins |	Planeta 
 
 ## Vários 
 * Para Gostar de Ler - Volume 9 (contos)	| Vários (Clarice Lispector, João Antonio, Lygia Fagundes Telles, Machado de Assis, Moacyr Scliar, etc)	| Editora Ática
@@ -64,5 +64,5 @@ Livro que deu origem ao filme
 * Você tem mais coragem do que imagina | Um guia de Investimentos em Ações	|	Editora Saraiva
 
 
-
-* Os melhores contos de Herman Melville	| Herman Melville	 |Circulo do Livro
+## Herman Melville
+* Os melhores contos de Herman Melville	| Herman Melville	| Circulo do Livro
