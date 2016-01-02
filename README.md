@@ -9,7 +9,7 @@ Autor de Sherlock Holmes
 ## Julio Verne
 
 * A Aldeia Area	| Julio Verne	|  Livraria Bertrand
-* Um padre em 1839	| Julio Verne |	Supione Cultural
+~~* Um padre em 1839	| Julio Verne |	Supione Cultural~~
 * Viagem ao Centro da Terra	| Julio Verne |	Martin Claret
  
 ## Henry Miller
@@ -21,11 +21,11 @@ Autor de Sherlock Holmes
 * Leite Derramado |	Chico Buarque |	Companhia das Letras
 * Budapeste |	Chico Buarque |	Companhia das Letras
 
-##Isaac Asimov
+~~##Isaac Asimov~~
 
-* O Futuro Começou	| Isaac Asimov |	FC Hemus
-* Os Robos e o Império | Isaac Asimov | Editora Record
-* Os Robos do Amanhecer | Isaac Asimov | Editora Record
+~~* O Futuro Começou	| Isaac Asimov |	FC Hemus~~
+~~* Os Robos e o Império | Isaac Asimov | Editora Record~~
+~~* Os Robos do Amanhecer | Isaac Asimov | Editora Record~~
 
 ## William Shakespeare
 * Hamlet | William Shakespeare	| L&PM Pocket
